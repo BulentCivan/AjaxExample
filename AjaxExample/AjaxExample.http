@@ -1,0 +1,6 @@
+@AjaxExample_HostAddress = http://localhost:5186
+
+GET {{AjaxExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
